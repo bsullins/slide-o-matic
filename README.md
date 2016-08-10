@@ -6,6 +6,7 @@ Generates powerpoint slides from a json file
 - You may also need to install the XCode command line tools if you've not done so already
 
 # dependencies
+- A powerpoint template you'd like to use named ps-template.pptx
 - [python-pptx](https://pypi.python.org/pypi/python-pptx)
 
 # usage
