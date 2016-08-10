@@ -1,9 +1,12 @@
+I<<<<<<< HEAD
 # IDE stuff:
 /.idea
 
 # PS IP
 ps-template.pptx
 
+=======
+>>>>>>> origin/master
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
