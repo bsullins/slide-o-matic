@@ -1,6 +1,9 @@
 # IDE stuff:
 /.idea
 
+# PS IP
+ps-template.pptx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
