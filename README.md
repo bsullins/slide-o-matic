@@ -3,7 +3,7 @@ Generates powerpoint slides from a json file
 
 # setup
 - You'll need Python installed and then run setup.py
-- You may also need to install the XCode commadn line tools if you've not done so already
+- You may also need to install the XCode command line tools if you've not done so already
 
 # dependencies
 - (python-pptx)[https://pypi.python.org/pypi/python-pptx]
