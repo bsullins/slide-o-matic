@@ -15,7 +15,8 @@ Generates powerpoint slides from a json file
 # usage
 1. Open the Excel file and enter your module info (layouts: 0=title, 2=section header)
 2. Update profile.png to your image
-3. Copy/paste the JSON generated in the Excel file to `gen-slides.py`
-4. Run `python gen-slides.py`
-5. Revel in your accomplishments
-6. Fork this repo to improve this solution so we can all save time typing into slides
+3. Copy the `sample-config.py` file to `config.py` and set the appropriate values
+4. Copy/paste the JSON generated in the Excel file to `gen-slides.py`
+5. Run `python gen-slides.py`
+6. Revel in your accomplishments
+7. Fork this repo to improve this solution so we can all save time typing into slides
